@@ -9,7 +9,7 @@ function Profile() {
             <img src="https://storage.zoominfo.com/5564123797" alt="" />
             <div>
                 <span className="fs-6  text-secondary d-block">Curated by</span>
-                <span className="fs-5 d-block fw-bold">jithin</span>
+                <span className="fs-5 d-block fw-bold">Jithin</span>
                 <span className="small  text-secondary d-block">Qoruz</span>
             </div>
         </div>
